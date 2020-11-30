@@ -1,0 +1,27 @@
+1606674802921	geckodriver	INFO	Listening on 127.0.0.1:45737
+1606674802929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFokZxU"
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFED60A83F0, 4096)
+Sandbox: seccomp sandbox violation: pid 1893, tid 1893, syscall 262, args 25 140355857646334 140732489434096 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFE044F99D0, 4096)
+Sandbox: seccomp sandbox violation: pid 1914, tid 1914, syscall 262, args 24 139811575292670 140728970746320 4096 4096 1.
+1606674808683	Marionette	INFO	Listening on port 42629
+1606674808754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=791983797, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=791983797, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=791983797 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=791983797 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=7&cb=1913457435, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=7&cb=1913457435, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=7&cb=1913457435, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=7&cb=1913457435 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=7&cb=1913457435 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.openccc.net/ccc-jasig-widget-portlets/assets/js/common/common-js.js?v=978322b, line 22: TypeError: window.ccc.Module is undefined
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=253797964, line 1: unreachable code after return statement
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=253797964, line 1: unreachable code after return statement
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=253797964 line 1 > eval, line 1: unreachable code after return statement
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFE05405270, 4096)
+Sandbox: seccomp sandbox violation: pid 1960, tid 1960, syscall 262, args 28 140596278678270 140728986522224 4096 4096 1.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1606675081939	Marionette	INFO	Stopped listening on port 42629
